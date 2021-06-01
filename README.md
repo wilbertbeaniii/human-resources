@@ -8,10 +8,14 @@ Project Charter:
 Problem Statement
 The problem statement should address these questions:
 * What is wrong, not working and not meeting our customer’s needs?
-* When and where do the problems occur?
+- There are no current Job Task Analysis reports or Job Descriptions which create internal workflow confusion. 
+* When and where do the problems occur? Operations, specifically business administration, management, sales, and customer experience.
 * What is the frequency of the problem?
+- unknown
 * What’s the impact of the problem on our customers/business or employees?
+- uknown, needs definition
 * What is the financial impact of the project and/or problem?
+- unknown, needs definition
 
 Goal Statement
 [Increase/Decrease] [Unit] from a baseline of [Baseline] to target of [goal level] by [date projected to reach target levels] 
@@ -19,7 +23,6 @@ Goal Statement
 Scope - First/Last and In/Out
 1st Process Step
 Last Process Step
-
 In Scope:
 
 Out of Scope:
